@@ -1,0 +1,29 @@
+[
+  {
+    "id": "3",
+    "brand": "BMW",
+    "number": "8055",
+    "type": "Sedan",
+    "incoming_time": "02:01",
+    "outgoing_time": "02:02",
+    "parking_slot": "A-3"
+  },
+  {
+    "id": "4",
+    "brand": "G WAGON",
+    "number": "1212",
+    "type": "Hatchback",
+    "incoming_time": "11:22",
+    "outgoing_time": "13:04",
+    "parking_slot": "A-1"
+  },
+  {
+    "id": "5",
+    "brand": "GT-RS991",
+    "number": "1435",
+    "type": "Sedan",
+    "incoming_time": "11:23",
+    "outgoing_time": "22:07",
+    "parking_slot": "A-5"
+  }
+]

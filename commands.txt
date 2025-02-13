@@ -1,0 +1,7 @@
+go mod init car-parking-api
+
+go get -u github.com/gin-gonic/gin
+
+go get github.com/gin-contrib/cors
+
+This is the back end logic for car parking use case. I need to make a API call from React application which is in front-end folder > car-parking-app. And backend logic is present in back-end folder parallel to front-end folder. And I'm using vite plugin so react app is running in port 5173. I'll also give my react component details. Until then analyse this logic.
